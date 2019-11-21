@@ -3,3 +3,13 @@ body{
   height: 500px;
   background-color: #4a4a4a;
 }
+
+.didyouknow {
+    width: 273px;
+    height: 30px;
+    font-family: RobotoSlab;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    color: #ffffff; 
+}

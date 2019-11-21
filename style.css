@@ -24,6 +24,7 @@
   width: 273px;
   height: 66px;
   background-color: #ffb6c1;
+  margin-bottom: 20px;
 }
 
 .devil {
@@ -33,6 +34,9 @@
   font-size: 20px;
   font-weight: bold;
   color: #4a4a4a;
+  margin-right: 2px;
+  margin-top: 17px;
+  margin-bottom: 19px;
 }
 
 .story {
@@ -41,4 +45,16 @@
   font-family: RobotoSlab;
   font-size: 18px;
   color: #ffffff;
+}
+
+.textdeco{
+  text-decoration: underline;
+}
+
+.read {
+    width: 82px;
+  height: 21px;
+  font-family: RobotoSlab;
+  font-size: 14px;
+  color: #b8e986;
 }
